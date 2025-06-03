@@ -1,0 +1,9 @@
+
+#text1{margin: 20px 10px 20px 20px;font-size: 16px; width: 500px;}
+
+#but{display: inline; width: 100px; height: 50px; transform: scale(1.2); margin: 10px;font-size: 16px;}
+#all{min-height:850px; margin:40px; padding: 10px;background-color: rgb(255, 249, 242);text-align: center;border-radius: 15px;}
+body{background-color: rgb(247, 168, 181);}
+h1{color: indianred; font-size: 24px;}
+p{font-size: 20px;}
+#but{background-color: rgb(95, 180, 45); color: rgb(230, 255, 230);}

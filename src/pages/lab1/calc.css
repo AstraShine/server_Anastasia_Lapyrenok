@@ -1,0 +1,9 @@
+
+#num1{margin: 20px 10px 20px 20px;font-size: 16px;}
+#num2{margin: 20px 10px 20px 20px;font-size: 16px;}
+
+#but{display: inline; width: 50px; height: 50px; transform: scale(1.2); margin: 10px;font-size: 16px;}
+#butone{display: inline; width: 50px; height: 50px; transform: scale(1.2); margin: 10px 10px 10px 45px;font-size: 16px;}
+#buttons{margin:20px 10px 10px 80px}
+
+#res{width: 500px; margin: 30px 10px 20px 20px;font-size: 16px;}
